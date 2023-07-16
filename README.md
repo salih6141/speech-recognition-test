@@ -1,6 +1,5 @@
 # speech-recognition-test
-python app using speech-recognition and pyttsx3
-REQUIRED MODULES AND PACKAGES:
+REQUIRED MODULES AND PACKAGES
 1. -pip install speechrecognition
 2. -pip install pyaudio
 3. -pip install pyttsx3
